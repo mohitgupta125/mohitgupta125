@@ -74,7 +74,7 @@ A **Passionate Full Stack Developer (MEAN/MERN)** from India, with a strong focu
 
 ## 📊 GitHub Stats:
 
-![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitgupta&show_icons=true&theme=radical)
+![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitgupta125&show_icons=true&theme=radical)
 
 ---
 
